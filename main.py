@@ -11,7 +11,7 @@ t3.color('blue')
 t2.left(162)
 t3.left(270)
 
-for i in range(28):
+for i in range(40):
     t1.forward(10)
     t1.left(10)
 
